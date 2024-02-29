@@ -1,7 +1,3 @@
-Claro, aqui está uma explicação completa do código para um arquivo README:
-
----
-
 # Busca de Produtos no Mercado Livre
 
 Este é um aplicativo de desktop simples desenvolvido em Python usando Tkinter que permite ao usuário buscar produtos no Mercado Livre, especificando um termo de busca, um nome específico do produto e o número de páginas a serem pesquisadas. Os dados dos produtos encontrados são salvos em um arquivo Excel.
